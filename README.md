@@ -31,8 +31,8 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 
 ### Samples
 * Working closely with the TF Lite community to publish a series of tutorials, pre-trained models and samples to show what is possible with cutting edge Edge AI.
- * [Converting your selfie to anime](https://twitter.com/margaretmz/status/1283240808443809793) 
- * Here are our [on-going projects](https://github.com/ml-gde/e2e-tflite-tutorials/issues).
+  * [Converting your selfie to anime](https://twitter.com/margaretmz/status/1283240808443809793) 
+  * Here are our [on-going projects](https://github.com/ml-gde/e2e-tflite-tutorials/issues).
 
 ## 2019 and earlier
 
