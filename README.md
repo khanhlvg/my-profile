@@ -19,6 +19,7 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 * [Training and deploying ML models on edge devices (TF Fall 2020 Updates)](https://www.youtube.com/watch?v=0d-2551pQcM)
 * [Build a custom image classification app on Android](https://youtu.be/s_XOVkjXQbU)
 * [ML Bootcamp for Mobile Developers](https://youtu.be/uMokEy_921Q?t=290)
+* [Introduction to Edge AI with TensorFlow Lite and Coral (Japanese)](https://youtu.be/pIilIDY1v4g?list=PLx--cSjgRP_RQdOWJkktvswaHJH0Sko6G)
 * [TF Lite Training (Get Started)](https://drive.google.com/file/d/1aM3HhMWEsOdUehZMkEb-Efz5PtD371UZ/view?usp=sharing)
 * [TF Lite Training (Advanced)](https://drive.google.com/file/d/1o_EMae0N9pGRhMpJjrPvIBNekRcAXQlq/view?usp=sharing)
 * [What's new in TF Lite from TF DevSummit](https://youtu.be/shqlDPJxBe0)
