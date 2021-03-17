@@ -20,6 +20,7 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 ## 2020 
 
 ### Videos
+* [Introduction to Edge ML (Japanese)](https://cloudonair.withgoogle.com/events/google-mlsummit?talk=d1-session4)
 * [Intro to On-device Machine Learning (TF Fall 2020 Updates)](https://www.youtube.com/watch?v=Zg0t3f90n6Q)
 * [Training and deploying ML models on edge devices (TF Fall 2020 Updates)](https://www.youtube.com/watch?v=0d-2551pQcM)
 * [Build a custom image classification app on Android](https://youtu.be/s_XOVkjXQbU)
