@@ -12,6 +12,11 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 
 # Past work
 
+## 2021
+
+### Videos
+* [Machine learning - Zero to Hero (Vietnamese)](https://www.youtube.com/watch?v=NVsw-JrXv9I&list=PLQY2H8rRoyvxNqk9EV5VP5fS0cWEXW5QQ)
+
 ## 2020 
 
 ### Videos
