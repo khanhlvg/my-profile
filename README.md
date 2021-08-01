@@ -10,6 +10,10 @@ Google で Edge AI に関するグローバルの啓蒙活動を担当してい�
 
 AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、Android、Google Play、iOS など）に長く関わりました。
 
+## Photos
+* [Photo1](photos/1.jpeg)
+* [Photo2](photos/2.jpeg)
+
 # Past work
 
 ## 2021
