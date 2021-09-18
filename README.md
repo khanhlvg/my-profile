@@ -34,7 +34,8 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 ### Samples
 
 * [MoveNet pose estimation (Android/iOS/Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation)
-* [Sound classification (Android](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
+* [Pose classification with TFLite and MoveNet](https://www.tensorflow.org/lite/tutorials/pose_classification)
+* [Sound classification (Android)](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
 
 ## 2020 
 
