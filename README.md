@@ -19,7 +19,22 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 ## 2021
 
 ### Videos
+* [Build and deploy custom object detection model with TensorFlow Lite | Workshop@Google I/O 2021](https://youtu.be/vLxn5mOuWAk)
+* [Get started with object detection (On-device ML learning pathway)](https://developers.google.com/learn/pathways/get-started-object-detection)
+* [Go further with object detection (On-device ML learning pathway)](https://developers.google.com/learn/pathways/going-further-object-detection)
+* [Get started with product image search (On-device ML learning pathway)](https://developers.google.com/learn/pathways/get-started-image-product-search)
+* [Go further with product image search (On-device ML learning pathway)](https://developers.google.com/learn/pathways/going-further-image-product-search)
 * [Machine learning - Zero to Hero (Vietnamese)](https://www.youtube.com/watch?v=NVsw-JrXv9I&list=PLQY2H8rRoyvxNqk9EV5VP5fS0cWEXW5QQ)
+
+### Blog posts / Tutorials
+
+* [Pose estimation and classification on edge devices with MoveNet and TensorFlow Lite](https://blog.tensorflow.org/2021/08/pose-estimation-and-classification-on-edge-devices-with-MoveNet-and-TensorFlow-Lite.html?linkId=127860904)
+* [Easier object detection on mobile with TensorFlow Lite](https://blog.tensorflow.org/2021/06/easier-object-detection-on-mobile-with-tf-lite.html)
+
+### Samples
+
+* [MoveNet pose estimation (Android/iOS/Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation)
+* [Sound classification (Android](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
 
 ## 2020 
 
@@ -41,6 +56,8 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 * [What’s new in TensorFlow Lite from DevSummit 2020](https://blog.tensorflow.org/2020/04/whats-new-in-tensorflow-lite-from-devsummit-2020.html)
 * [Enhance your TensorFlow Lite deployment with Firebase](https://blog.tensorflow.org/2020/06/enhance-your-tensorflow-lite-deployment-with-firebase.html)
 * [Optimizing style transfer to run on mobile with TFLite](https://blog.tensorflow.org/2020/04/optimizing-style-transfer-to-run-on-mobile-with-tflite.html)
+* [Easy ML mobile development with TensorFlow Lite Task Library](https://blog.tensorflow.org/2020/09/introducing-tensorflow-lite-task-library.html)
+* [Build sound classification models for mobile apps with Teachable Machine and TFLite](https://blog.tensorflow.org/2020/12/build-sound-classification-models-for-mobile-apps-with-teachable-machine-and-tflite.html)
 
 ### Samples
 * Working closely with the TF Lite community to publish a series of tutorials, pre-trained models and samples to show what is possible with cutting edge Edge AI.
