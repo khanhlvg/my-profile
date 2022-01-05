@@ -19,6 +19,7 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 ## 2021
 
 ### Videos
+* [TensorFlow Lite Object Detection on Raspberry Pi](https://www.youtube.com/watch?v=mNjXEybFn98&list=PLQY2H8rRoyvz_anznBg6y3VhuSMcpN9oe)
 * [Build and deploy custom object detection model with TensorFlow Lite | Workshop@Google I/O 2021](https://youtu.be/vLxn5mOuWAk)
 * [Get started with object detection (On-device ML learning pathway)](https://developers.google.com/learn/pathways/get-started-object-detection)
 * [Go further with object detection (On-device ML learning pathway)](https://developers.google.com/learn/pathways/going-further-object-detection)
@@ -36,6 +37,9 @@ AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、A
 * [MoveNet pose estimation (Android/iOS/Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation)
 * [Pose classification with TFLite and MoveNet](https://www.tensorflow.org/lite/tutorials/pose_classification)
 * [Sound classification (Android)](https://github.com/tensorflow/examples/tree/master/lite/examples/sound_classification/android)
+* [Image Classification (Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/raspberry_pi)
+* [Object Detection (Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/raspberry_pi)
+* [Image Segmentation (Raspberry Pi)](https://github.com/tensorflow/examples/tree/master/lite/examples/image_segmentation/raspberry_pi)
 
 ## 2020 
 
