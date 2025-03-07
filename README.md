@@ -1,14 +1,12 @@
 # Biography
 
-Khanh LeViet, TensorFlow Developer Advocate, Google Inc.
+Khanh LeViet, Senior Product Manager, Google Cloud
 
 ## English
-Khanh LeViet is a TensorFlow Developer Advocate at Google, helping developers to create amazing applications with Edge AI. He speaks at technology conferences, writes and publishes sample code on GitHub. Before his journey with AI, Khanh was a mobile developer working on both Android and iOS. 
+Khanh is a Senior Product Manager on Google Cloud's Generative AI team, driving the adoption of generative media technologies, including Imagen, Veo, and Chirp. His work focuses on empowering developers and creators to build innovative AI-powered content and applications. His background includes experience in Edge AI and mobile development for both Android and iOS platforms.
 
 ## Japanese
-Google で Edge AI に関するグローバルの啓蒙活動を担当しています。私のミッションは、TensorFlow Lite をはじめ、Android ML などのオンデバイス機械学習のライブラリーを組み合わせて、エッジデバイスでの機械学習のアプリケーションを世の中に広めることです。
-
-AI/ML分野に身を置く前に、モバイルアプリの開発（Firebase、Android、Google Play、iOS など）に長く関わりました。
+Google Cloudの生成AIチームのシニアプロダクトマネージャーです。Imagen、Veo、Chirpなどの生成メディア技術の普及を推進しています。私の仕事は、開発者やクリエイターが革新的なAI駆動のコンテンツやアプリケーションを構築できるように支援することに焦点を当てています。過去はEdge AIとモバイル開発（AndroidとiOS）にも関わっていました。
 
 ## Photos
 * [Photo1](photos/1.jpeg)
