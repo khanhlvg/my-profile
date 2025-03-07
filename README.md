@@ -3,7 +3,7 @@
 Khanh LeViet, Senior Product Manager, Google Cloud
 
 ## English
-Khanh is a Senior Product Manager on Google Cloud's Generative AI team, driving the adoption of generative media technologies, including Imagen, Veo, and Chirp. His work focuses on empowering developers and creators to build innovative AI-powered content and applications. His background includes experience in Edge AI and mobile development for both Android and iOS platforms.
+Khanh is a Senior Product Manager on Google Cloud's Vertex AI team, driving the adoption of generative media technologies, including Imagen, Veo, and Chirp. His work focuses on empowering developers and creators to build innovative AI-powered content and applications. His background includes experience in Edge AI and mobile development for both Android and iOS platforms.
 
 ## Japanese
 Google Cloudの生成AIチームのシニアプロダクトマネージャーです。Imagen、Veo、Chirpなどの生成メディア技術の普及を推進しています。私の仕事は、開発者やクリエイターが革新的なAI駆動のコンテンツやアプリケーションを構築できるように支援することに焦点を当てています。過去はEdge AIとモバイル開発（AndroidとiOS）にも関わっていました。
